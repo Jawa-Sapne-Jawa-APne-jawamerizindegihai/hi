@@ -1,1 +1,4 @@
+dm1q.txt
+dm2q.txt
+b5q.txt
 dm3q.txt
