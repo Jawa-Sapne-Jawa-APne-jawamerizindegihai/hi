@@ -2,4 +2,4 @@ name=Galaxy S23
 codename=dm1q
 server=PixelDrain
 link=https://pixeldrain.com/u/azdsHGxQ
-mirror=
+mirror=na
