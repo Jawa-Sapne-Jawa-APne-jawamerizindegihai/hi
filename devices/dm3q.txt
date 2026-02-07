@@ -1,0 +1,5 @@
+name=Galaxy S23 Ultra
+codename=dm3q
+server=PixelDrain
+link=https://pixeldrain.com/u/VVsVmD4D
+mirror=https://example.com/mirror
