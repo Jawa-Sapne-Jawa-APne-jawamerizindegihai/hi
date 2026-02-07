@@ -2,4 +2,4 @@ name=Galaxy ZFlip 5
 codename=b5q
 server=PixelDrain
 link=https://pixeldrain.com/u/PztbvPoL
-mirror=
+mirror=na
