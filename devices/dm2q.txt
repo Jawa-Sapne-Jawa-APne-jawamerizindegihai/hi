@@ -1,0 +1,5 @@
+name=Galaxy S23 Plus
+codename=dm2q
+server=PixelDrain
+link=https://pixeldrain.com/u/ZoJ4ECwd
+mirror=
